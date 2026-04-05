@@ -1,6 +1,6 @@
 ---
 name: python-style-guide
-description: Enforce Python code style: use uv, type hints, docstrings, and avoid print statements in production code.
+description: "Enforce Python code style: use uv, type hints, docstrings, and avoid print statements in production code."
 license: MIT
 metadata:
   author: wangxiaokangty
